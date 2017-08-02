@@ -1,5 +1,5 @@
 # Cloudy_Summer_School
 Notebooks for the Cloudy Summer School
 
-First of all, [some introduction to python](IntroPython.pdf)
+First of all, [some general introduction to python](IntroPython.pdf) and another one in [format of Notebook](Notebooks/Intro%20Python.ipynb)
 

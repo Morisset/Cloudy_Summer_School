@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+models/*
+pypics/*
+data*.dat
+observations*
+test*

@@ -3,6 +3,5 @@ models/*
 pypics/*
 data*.dat
 observations*
-test*
 
 *.pypic

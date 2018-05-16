@@ -1,6 +1,9 @@
 # Cloudy_Summer_School
 Notebooks for the Cloudy Summer School
 
+[Introductory talk](py-stuffs.pdf),
+
+
 First of all,
 [some general introduction to python](Notebooks/1.intro_Python.ipynb),
 [numpy](Notebooks/2.intro_numpy.ipynb),

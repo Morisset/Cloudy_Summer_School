@@ -3,5 +3,5 @@ models/*
 pypics/*
 data*.dat
 observations*
-
+**__pycache__
 *.pypic

@@ -1,10 +1,10 @@
 # Cloudy_Summer_School
 Notebooks for the Cloudy Summer School
 
-[Introductory talk](py-stuffs.pdf),
+## [Introductory talk](py-stuffs.pdf)
 
 
-First of all,
+## First of all,
 [some general introduction to python](Notebooks/1.intro_Python.ipynb),
 [numpy](Notebooks/2.intro_numpy.ipynb),
 [reading files](Notebooks/3.Interact_with_files.ipynb), and
@@ -14,7 +14,7 @@ First of all,
 
 [General introduction to pyCloudy](pyCloudy.pdf) and photoionization codes.
 
-Some examples related to Gary's examples:
+## Some examples related to Gary's examples:
 
 * [First example](Notebooks/FirstModels.ipynb) dealing with a simple model and a grid of models.
 * [Second example](Notebooks/SecondModels.ipynb) comparing the electrontemperature of nebulae ionized by different sources.

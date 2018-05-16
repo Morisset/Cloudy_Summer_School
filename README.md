@@ -16,6 +16,6 @@ Some examples related to Gary's examples:
 * [First example](Notebooks/FirstModels.ipynb) dealing with a simple model and a grid of models.
 * [Second example](Notebooks/SecondModels.ipynb) comparing the electrontemperature of nebulae ionized by different sources.
 * [Coronal models](Notebooks/Coronal.ipynb)
-* [Model of HII_Um3](Notebooks/HII_Models.ipynb)
+* [Model of HII region](Notebooks/HII_Models.ipynb)
 * [A grid of models varying the metallicity](Notebooks/VaryZ.ipynb)
 * [Exploring the 3MdB database](Notebooks/explore_3MdB.ipynb)

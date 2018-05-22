@@ -23,3 +23,9 @@ Notebooks for the Cloudy Summer School
 * [Model of HII region](Notebooks/HII_Models.ipynb)
 * [A grid of models varying the metallicity](Notebooks/VaryZ.ipynb)
 * [Exploring the 3MdB database](Notebooks/explore_3MdB.ipynb)
+
+## Scientific talks
+
+* [The Diffuse Ionized Gas resolved by HOLMES](DIGs.pdf)
+* [What NOT to do with IFSs and models](IFUs.pdf)
+* [Modeling CALIFA HII regions](CALIFA.pdf)

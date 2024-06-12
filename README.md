@@ -6,10 +6,10 @@ Notebooks for the Cloudy Summer School
 
 
 ## First of all:
-* [some general introduction to python](Notebooks/1.intro_Python.ipynb)
-* [numpy](Notebooks/2.intro_numpy.ipynb)
-* [reading files](Notebooks/3.Interact_with_files.ipynb)
-* [matplotlib](Notebooks/4.intro_Matplotlib.ipynb)
+* [some general introduction to python](Notebooks/0.1.intro_Python.ipynb)
+* [numpy](Notebooks/0.2.intro_numpy.ipynb)
+* [reading files](Notebooks/0.3.Interact_with_files.ipynb)
+* [matplotlib](Notebooks/0.4.intro_Matplotlib.ipynb)
 
 ## [Introduction to PyNeb](Notebooks/Intro_PyNeb.ipynb)
 
@@ -17,15 +17,14 @@ Notebooks for the Cloudy Summer School
 
 ## Some examples related to Gary's examples:
 
-* [First example](Notebooks/FirstModels.ipynb) dealing with a simple model and a grid of models.
-* [Second example](Notebooks/SecondModels.ipynb) comparing the electrontemperature of nebulae ionized by different sources.
-* [Coronal models](Notebooks/Coronal.ipynb)
-* [Model of HII region](Notebooks/HII_Models.ipynb)
-* [A grid of models varying the metallicity](Notebooks/VaryZ.ipynb)
-* [Exploring the 3MdB database](Notebooks/explore_3MdB.ipynb)
+* [First example](Notebooks/1.1.FirstModels.ipynb) dealing with a simple model and a grid of models.
+* [Second example](Notebooks/1.2.SecondModels.ipynb) comparing the electrontemperature of nebulae ionized by different sources.
+* [Coronal models](Notebooks/1.3.Coronal.ipynb)
+* [Model of HII region](Notebooks/1.4.HII_Models.ipynb)
+* [A grid of models varying the metallicity](Notebooks/1.5.VaryZ.ipynb)
+* [Exploring the 3MdB database](Notebooks/1.6.explore_3MdB.ipynb)
 
-## Scientific talks
+## Other examples :
 
-* [The Diffuse Ionized Gas resolved by HOLMES](DIGs.pdf)
-* [What NOT to do with IFSs and models](IFUs.pdf)
-* [Modeling CALIFA HII regions](CALIFA.pdf)
+* [pyCloudy3D](Notebooks/pyCloudy3D.ipynb) how to make a pseudo-3D model
+* [Search3MdB](Notebooks/Search3MdB.ipynb) Lookup in 3MdB tables

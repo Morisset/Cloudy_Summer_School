@@ -10,7 +10,7 @@ Notebooks for the Cloudy Summer School
 
 ## [Introduction to PyNeb](Notebooks/Intro_PyNeb.ipynb)
 
-## [General introduction to pyCloudy](pyCloudy.pdf) and photoionization codes.
+## [General introduction to pyCloudy](pyCloudy.pdf).
 
 ## Some examples related to Gary's examples:
 

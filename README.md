@@ -24,4 +24,5 @@ Notebooks for the Cloudy Summer School
 ## Other examples :
 
 * [pyCloudy3D](Notebooks/pyCloudy3D.ipynb) how to make a pseudo-3D model
+* [Slit position](Notebooks/Slit.ipynb) how to take into account the slit size and position, even for a spherical model
 * [Search3MdB](Notebooks/Search3MdB.ipynb) Lookup in 3MdB tables

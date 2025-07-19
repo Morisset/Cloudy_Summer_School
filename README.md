@@ -1,6 +1,6 @@
-# Cloudy Summer School
+# Cloudy Workshop
 
-Notebooks for the Cloudy Summer School
+Notebooks for the [Cloudy Workshop](https://workshop.nublado.org/)
 
 ## First of all:
 * [some general introduction to python](Notebooks/0.1.intro_Python.ipynb)

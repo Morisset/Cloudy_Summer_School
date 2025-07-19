@@ -5,3 +5,4 @@ data*.dat
 observations*
 **__pycache__
 *.pypic
+*/.DS_Store

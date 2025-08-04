@@ -1,3 +1,4 @@
+.DS_Store
 .ipynb_checkpoints
 models/*
 pypics/*
@@ -5,4 +6,3 @@ data*.dat
 observations*
 **__pycache__
 *.pypic
-*/.DS_Store
